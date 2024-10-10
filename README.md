@@ -22,6 +22,8 @@ The package contains:
 
 Refer to the codes for more details.
 
+If you have any questions, write to hakanosmanc@gmail.com
+
 REFERENCES
 
 Y. Man, E. Lauga (2013). The wobbling-to-swimming transition of rotated helices. Physics of Fluids, https://doi.org/10.1063/1.4812637.
